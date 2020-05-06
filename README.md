@@ -1,6 +1,7 @@
 # ShowModal
 
 **Teacher: Ivan Petrichenko**
+
 **UDEMY homework:**
 
 1) Write an event handler not allowing to run scripts before page loading 
